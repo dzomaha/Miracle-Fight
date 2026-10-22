@@ -64,7 +64,7 @@ The server runs on a set of advanced custom systems designed, built and continuo
 ### Discord ↔ FiveM Integration
 Links each player's Discord account to their in-game identity. Players' **Discord profile pictures appear across most of the server's interfaces**, giving the UI a personalized, connected feel.
 
-![Discord profile pictures in-game](assets/discord-integration.png)
+![Discord profile pictures in-game](assets/discord.png)
 
 ### Custom ID System
 An advanced in-game ID system that replaces the standard txAdmin IDs, which makes managing players much easier. It also gives players a unique feel, because each ID is permanently tied to their account.
