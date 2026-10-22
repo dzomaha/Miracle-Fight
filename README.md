@@ -146,4 +146,4 @@ Each season brought new content and updates. That meant testing changes carefull
 ## Contact
 
 **Abdullah Alshammary**
-[GitHub profile link] · [Email or Discord]
+[Discord](https://discord.com/users/762683465786851368)
